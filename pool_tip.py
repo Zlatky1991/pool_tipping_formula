@@ -1,7 +1,7 @@
 question = input("How many servers: ")
 server = int(question) #how many servers
-points_amount = 0 #total points
-tip_amount = 0 #total pool tip
+points_amount = 0
+tip_amount = 0 
 average = 0
 pool_tip = 0
 list_server_points = []

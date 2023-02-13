@@ -73,7 +73,7 @@ for i in list_server_points:
         if point_seven > 1:
             continue
         else:
-            print(f'The server with 1 points has: {pool_tip:.2f}$ pool tip.')
+            print(f'The server with 7 points has: {pool_tip:.2f}$ pool tip.')
     elif i == 8:
         pool_tip = average * i
         point_eight += 1
@@ -87,7 +87,7 @@ for i in list_server_points:
         if point_nine > 1:
             continue
         else:
-            print(f'The server with 1 points has: {pool_tip:.2f}$ pool tip.')
+            print(f'The server with 9 points has: {pool_tip:.2f}$ pool tip.')
 
 
 
